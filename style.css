@@ -172,6 +172,15 @@ body {
     order: 2
 }
 
+.project-content .text.center {
+    flex: none;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
 .project-content .image {
     flex: 1 1 45%;
 }
